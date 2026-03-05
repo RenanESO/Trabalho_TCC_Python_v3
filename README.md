@@ -19,7 +19,7 @@
 
 Este projeto contém o núcleo de processamento de imagens e reconhecimento facial do sistema **FotoPlus**. Desenvolvido em **Python**, ele atua como um serviço de backend para a aplicação web principal (Laravel), responsável por detectar faces, reconhecer pessoas, organizar fotos e identificar duplicatas no Google Drive.
 
-> **Nota:** Este projeto trabalha em conjunto com o repositório principal: [Trabalho_TCC_v3 FotoPlus](https://github.com/seu-usuario/Trabalho_TCC_v3).
+> **Nota:** Este projeto trabalha em conjunto com o repositório principal: [Trabalho_TCC_v3 FotoPlus](https://github.com/RenanESO/Trabalho_TCC_v3).
 
 ---
 
